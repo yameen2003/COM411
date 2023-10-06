@@ -1,6 +1,11 @@
-# Display message to the screen
-print("welcome to COM411!")
-print("In week 1 we will learn...")
+# display message to the screen
+print("\nwelcome to COM411!")
+print("\tIn week 1 we will learn...")
 print("...How to use Git and GitHub")
 print("...How to output to the screen")
 print("...How to get user input")
+print("\n\t\t\"I am programming!\"")
+print("\t\t\t##########")
+print("\t\t\t#  o  o  #")
+print("\t\t\t#  ----  #")
+print("\t\t\t##########")
